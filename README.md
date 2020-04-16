@@ -1,8 +1,8 @@
-# CS 107e Final Project: Pi-a-Shot
+# Pi-a-Shot
 ### Adam Shugar and Ryan Johnston
 
-## Context (for non-CS 107e folks)
-CS 107e is a hardware-based alternative to CS 107, Stanford's first of two systems courses in the core undergrad CS curriculum. The assignments guide students through constructing a stripped-down C library to interface with Raspberry Pi hardware, culminating in an extensible graphical shell program that can echo text, get and set memory values, and disassemble binary ARM instructions in RPi memory. In lieu of a final exam, 107e students are given 2 weeks and a $40 budget to construct a project using the skills they've learned. More info is available [here](http://cs107e.github.io/about/).
+## Context
+We completed this project for CS 107e, a hardware-based alternative to CS 107, Stanford's first of two systems courses in the core undergrad CS curriculum. The assignments guide students through constructing a stripped-down C library to interface with Raspberry Pi hardware, culminating in an extensible graphical shell program that can echo text, get and set memory values, and disassemble binary ARM instructions in RPi memory. In lieu of a final exam, 107e students are given 2 weeks and a $40 budget to construct a project using the skills they've learned. More info is available [here](http://cs107e.github.io/about/).
 
 Unfortunately, the situation due to COVID-19 necessaitated that the quarter be cut short by a week, and we had only 6 days to complete our project. The teaching team waived the final project requirement but we decided to keep working just for fun. Regardless, we thought it would be fun to share our results. We hope you enjoy!
 
